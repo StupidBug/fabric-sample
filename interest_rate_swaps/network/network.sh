@@ -194,7 +194,7 @@ COMPOSE_FILE=docker-compose.yaml
 COMPOSE_PROJECT_NAME=fabric-irs
 #
 # default image tag
-IMAGETAG="latest"
+IMAGETAG="2.2.7"
 # Parse commandline args
 MODE=$1
 shift
